@@ -1,4 +1,4 @@
-# owl-best-practices
+# Odoo owl-best-practices
 
 > **Note:** This repository contains my implementation of skills for Odoo OWL (Odoo Web Framework Library). For information about the Agent Skills standard, see [agentskills.io](http://agentskills.io).
 
